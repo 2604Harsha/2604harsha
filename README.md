@@ -1,94 +1,97 @@
-# Harsha Vardhan Naidu Dasireddy
+# Hi there, I'm Harsha Vardhan Naidu 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=220&section=header&text=Harsha%20Vardhan%20Naidu&fontSize=40&fontColor=ffffff"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Python+Backend+Developer;FastAPI+%7C+Flask+%7C+PostgreSQL;REST+API+Developer;Open+to+Work" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Python+Backend+Developer;FastAPI+%7C+Flask+%7C+PostgreSQL;REST+API+Developer;Open+to+Work"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </p>
 
-<p align="center">
+## 🚀 About Me
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+Backend Developer with professional experience building scalable REST APIs using **Python, FastAPI, Flask, SQLAlchemy and PostgreSQL**. Experienced in authentication, JWT security, role-based authorization, database design and API optimization.
 
-</p>
-
----
-
-# 👨‍💻 About Me
-
-Associate Software Engineer with experience building scalable backend systems using **Python, FastAPI, Flask, PostgreSQL** and REST APIs.
-
-- 🔭 Backend API Development
-- 🌱 Learning System Design & Cloud
-- 💾 PostgreSQL Database Design
-- 🔐 JWT Authentication & RBAC
-- 🚀 Open to Python Backend Opportunities
+- 🔭 Open to Python Backend Developer opportunities
+- 🌱 Learning AI/ML and advanced backend architecture
+- 💬 Ask me about Python, FastAPI, Flask & PostgreSQL
 
 ---
 
-# 🛠 Tech Stack
+# 💻 Tech Stack
 
-## Languages
-Python
+### Languages
+- Python
+- SQL
 
-## Backend
-FastAPI • Flask • REST APIs
+### Backend
+- FastAPI
+- Flask
+- REST APIs
+- JWT Authentication
+- SQLAlchemy
 
-## Database
-PostgreSQL • MySQL • SQLAlchemy
+### Database
+- PostgreSQL
+- MySQL
 
-## Tools
-Git • GitHub
+### Tools
+- Git
+- GitHub
 
 ---
 
-# 🚀 Featured Projects
+# 📂 Featured Projects
 
-<details>
-<summary><b>Admin Orbit</b></summary>
+## 1. Admin Orbit (Admin Dashboard)
 
-Backend Admin Dashboard built using Flask & MySQL.
+**Tech:** Python • Flask • MySQL
 
 - Employee Management
 - Project Management
+- Complaint System
 - Reports
-- Complaints
 - REST APIs
+- CRUD Operations
 
 Repository:
 https://github.com/2604Harsha/dashboard
 
-</details>
+---
 
-<details>
-<summary><b>User Authentication System</b></summary>
+## 2. Authentication System
 
-FastAPI + PostgreSQL Authentication
+**Tech:** FastAPI • PostgreSQL
 
-- JWT
-- Password Hashing
-- Login
+Features
+
 - Registration
-- Protected Routes
+- Login
+- Password Hashing
+- JWT Authentication
+- Protected APIs
 
 Repository:
-https://github.com/2604Harsha/Authentication-Full-.git
+https://github.com/2604Harsha/Authentication-Full-
 
-</details>
+---
 
-<details>
-<summary><b>Pharma Management</b></summary>
+## 3. Pharma Management System
 
-FastAPI backend for medicine inventory.
+**Tech:** FastAPI • PostgreSQL
+
+- Inventory
+- Medicine Management
+- Orders
+- Stock Tracking
+- REST APIs
 
 Repository:
-https://github.com/2604Harsha/AnandPharmaBackEnd.git
-
-</details>
+https://github.com/2604Harsha/AnandPharmaBackEnd
 
 ---
 
@@ -97,20 +100,19 @@ https://github.com/2604Harsha/AnandPharmaBackEnd.git
 ## Associate Software Engineer
 **Levitica Technologies**
 
-- Python
-- FastAPI
-- PostgreSQL
-- Authentication
-- Messaging APIs
+- Built enterprise REST APIs
+- JWT Authentication
+- PostgreSQL Optimization
+- Messaging Services
+- Channel Management
 
 ## Python Backend Developer Intern
-
 **BA Talks Pvt Ltd**
 
-- Flask
-- MySQL
-- REST APIs
+- Flask Backend Development
+- MySQL Database Design
 - Admin Dashboard
+- REST API Integration
 
 ---
 
@@ -118,22 +120,10 @@ https://github.com/2604Harsha/AnandPharmaBackEnd.git
 
 ```md
 https://github-readme-stats.vercel.app/api?username=2604Harsha&show_icons=true&theme=tokyonight
-```
 
-```md
 https://github-readme-streak-stats.herokuapp.com/?user=2604Harsha&theme=tokyonight
-```
 
-```md
 https://github-readme-stats.vercel.app/api/top-langs/?username=2604Harsha&layout=compact&theme=tokyonight
-```
-
----
-
-# 📈 Contribution Graph
-
-```md
-https://github-readme-activity-graph.vercel.app/graph?username=2604Harsha&theme=tokyo-night
 ```
 
 ---
@@ -142,32 +132,31 @@ https://github-readme-activity-graph.vercel.app/graph?username=2604Harsha&theme=
 
 ```yaml
 Learning:
+  - Advanced FastAPI
   - System Design
-  - Docker
-  - Cloud
+  - AI & ML
 
 Building:
-  - Enterprise Backend APIs
+  - Enterprise Backend Applications
+  - Secure REST APIs
 
 Exploring:
-  - AI Integration
-  - Microservices
+  - Docker
+  - Cloud Deployment
 
-OpenTo:
-  - Python Backend Developer Roles
+Open_To:
+  - Full-time Backend Developer Roles
 ```
 
 ---
 
 # 📫 Connect
 
-- Email: harshavardhannaidu23@gmail.com
-- GitHub: https://github.com/2604Harsha
+- 📧 harshavardhannaidu23@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/harsha-vardhan-naidu
+- 💻 GitHub: https://github.com/2604Harsha
 
 ---
 
-> "Build scalable software. Keep learning. Deliver impact."
+> "Building scalable backend systems with clean architecture and secure APIs."
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=footer"/>
-</p>
